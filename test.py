@@ -1,1 +1,1 @@
-print("Hello Engineer Information Processing testing for Python")
+print("Hello Engineer Information Processing Python")
