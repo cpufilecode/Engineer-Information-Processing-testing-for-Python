@@ -1,5 +1,5 @@
 class CharClass:
-	a = ['Seoul', 'Kyeongi', 'Inchon', 'Daejeon', 'Daegu', 'Pusan'];
+	a = [ 'Seoul', 'Kyeongi', 'Inchon', 'Daejeon', 'Daegu', 'Pusan'];
 myVar = CharClass()
 str01 = ' '
 for i in myVar.a:
